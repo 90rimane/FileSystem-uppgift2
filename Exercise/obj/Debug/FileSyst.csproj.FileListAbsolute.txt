@@ -1,0 +1,7 @@
+C:\Users\Rima\Downloads\FileSyst CD\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\Rima\Downloads\FileSyst CD\Exercise\bin\Debug\Exercise.exe
+C:\Users\Rima\Downloads\FileSyst CD\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Rima\Downloads\FileSyst CD\Exercise\obj\Debug\FileSyst.csproj.AssemblyReference.cache
+C:\Users\Rima\Downloads\FileSyst CD\Exercise\obj\Debug\FileSyst.csproj.CoreCompileInputs.cache
+C:\Users\Rima\Downloads\FileSyst CD\Exercise\obj\Debug\Exercise.exe
+C:\Users\Rima\Downloads\FileSyst CD\Exercise\obj\Debug\Exercise.pdb
